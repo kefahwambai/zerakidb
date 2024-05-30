@@ -76,6 +76,11 @@
     { "id": 1, "schoolId": 1, "invoiceNumber": 1, "collectionNumber": 101, "date": "10-05-2024", "status": "Valid", "amount": "Ksh 50,000" },
     { "id": 2, "schoolId": 2, "invoiceNumber": 2, "collectionNumber": 102, "date": "15-05-2024", "status": "Valid", "amount": "Ksh 25,000" },
     { "id": 3, "schoolId": 3, "invoiceNumber": 3, "collectionNumber": 103, "date": "15-05-2024", "status": "Valid", "amount": "Ksh 50,000" }
+  ],
+  "upcominginvoices": [
+    { "id": 1, "name": "Greenwood International School", "amount": "Kesh 25,000", "dueDate": "01-06-2024"},
+    { "id": 2,  "name": "Blue Horizon Secondary School", "amount": "Kesh 15,000", "dueDate": "05-06-2024"},
+    { "id": 3, "name": "Redwood Academy", "amount": "Kesh 15,000", "dueDate": "15-06-2024"}
   ]
 }
   
