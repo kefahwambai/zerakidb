@@ -3,6 +3,7 @@ const low = require('lowdb');
 const Memory = require('lowdb/adapters/Memory');
 const fs = require('fs');
 const path = require('path');
+const cors = require('cors');
 
 const server = jsonServer.create();
 const middlewares = jsonServer.defaults();
@@ -16,6 +17,7 @@ db.defaults(dbData).write();
 
 const router = jsonServer.router(db);
 
+server.use(cors());
 server.use(middlewares);
 server.use(jsonServer.rewriter({
     '/api/*': '/$1',
