@@ -7,8 +7,8 @@
       "products": ["Zeraki Analytics"],
       "county": "Nairobi",
       "registrationDate": "15-01-2023",
-      "contact": "greenwood@example.com",
-      "balance": 50000
+      "contact": "greenwood@accounts.com",
+      "balance": "Ksh 50,000"
     },
     {
       "id": 2,
@@ -17,8 +17,8 @@
       "products": ["Zeraki Timetable"],
       "county": "Mombasa",
       "registrationDate": "21-08-2022",
-      "contact": "bluehorizon@example.com",
-      "balance": 25000
+      "contact": "bluehorizon@accounts.com",
+      "balance": "Ksh 25,000"
     },
     {
       "id": 3,
@@ -27,8 +27,8 @@
       "products": ["Zeraki Analytics", "Zeraki Timetable"],
       "county": "Kisumu",
       "registrationDate": "12-02-2021",
-      "contact": "redwood@example.com",
-      "balance": 15000
+      "contact": "redwood@accounts.com",
+      "balance": "Ksh 15000"
     }
   ],
   "invoices": [
