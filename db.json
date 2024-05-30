@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Greenwood International School",
       "type": "Primary",
-      "products": ["Zeraki Analytics", "Zeraki Finance"],
+      "products": ["Zeraki Analytics"],
       "county": "Nairobi",
       "registrationDate": "15-01-2023",
       "contact": "greenwood@example.com",
